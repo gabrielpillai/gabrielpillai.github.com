@@ -1,0 +1,9 @@
+destination: ./_site
+auto:        true
+lsi:         false
+pygments:    true
+markdown:    maruku
+permalink:   none
+maruku:
+  use_tex:    false
+  use_divs:   false

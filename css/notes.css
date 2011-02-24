@@ -1,0 +1,7 @@
+
+BODY {  font: 12px helvetica,arial,clean,sans-serif margin: 0px; padding: 0px;
+        *font-size: small;}
+.notes {}
+.notes .note {position: relative; margin-bottom: 15px;}
+.notes .note .date {position: absolute; color: #aaa; font-size: 10px; margin-top: 2px;}
+.notes .note .body {position: relative; margin-left: 80px;}
