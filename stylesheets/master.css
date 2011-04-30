@@ -34,7 +34,8 @@ a:visited {
 #header {
   text-transform: lowercase;
   text-align: left;
-  background: #417378;
+  /* background: #417378; */
+  background: blue;
   -moz-border-radius-topleft: 1em;
   -webkit-border-top-left-radius: 1em;
   -moz-border-radius-topright: 1em;
@@ -62,7 +63,8 @@ a:visited {
 }
 
 #menu {
-  background: #3E423A;
+  /* background: #3E423A; */
+    background: red;
 }
 
 #menu ul {
