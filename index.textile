@@ -46,7 +46,7 @@ h3. Missionary/Visionary Goals
 h3. My conviction/AIM for any organisation
 
 # Always beleive in <u>"Value addition"</u> to the organization by personal contribution and also ensure that all personnel work accordingly in that direction.
-# Education and learning has no destination but a continuous process. Therefore, I am currently in the final semester of MBA (Final), MTH (Final) and MHRM (Master of Human Resource Management). 
+# Education and learning has no destination but a continuous process. Therefore, I am currently in the final semester of MBA (Final) and  MTH (Final).
 
 h3. Topics that I specialise in 
 
@@ -79,6 +79,6 @@ h3. Qualification
 # %{color:red}GOLD MEDAL IN PG DIPLOPA IN INDUSTRIAL RELATIONS & PERSONNEL MANAGEMENT% - 1985-1986
 # %{color:red}GOLD MEDAL RLY. FOUNDATION MANAGEMENT COURSE% FROM RSC.. BARODA
 # %{color:red}MDP% PASSED and COMPLETED MDP - MANAGEMENT DEVELOPMENT PROGRAMME %{color:green}with distinction%
-
+# %{color:red}MHRM% - Master of Human Resource Management
 
 View my detailed <a href="/images/resume.pdf">resume</a>
