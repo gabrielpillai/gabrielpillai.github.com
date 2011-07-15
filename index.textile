@@ -63,7 +63,7 @@ h3. Topics that I specialise in
 
 h3. Qualification
 
-%{color:green}MA, MPM, DIRPM (Gold), DTRM, DPM, DIJ, DCL, DLL, DPM (AU), DPM (BIET) CLR & CB (USA - I rank) DIJ. FMC (Gold).IMC (Gold) (MBA) (MTH) DRTM.%
+%{color:green}MA, MPM, DIRPM (Gold), DTRM, DPM, DIJ, DCL, DLL, DPM (AU), DPM (BIET) CLR & CB (USA - I rank) DIJ. FMC (Gold).IMC (Gold) (MBA) (MTH) MHRM.%
 
 # %{color:red}MA SOCIOLOGY% - 9TH RANK TO UNIVERSITY (MYSORE UNIVERSITY IN 1988 %{color:green}(FINAL YEAR II RANK)% 
 # %{color:red}MPM% MASTER OF PERSONNEL MANAGEMENT – %{color:green}I CLASS (OSM UNIVERSITY)% 2002
