@@ -81,4 +81,4 @@ h3. Qualification
 # %{color:red}MDP% PASSED and COMPLETED MDP - MANAGEMENT DEVELOPMENT PROGRAMME %{color:green}with distinction%
 # %{color:red}MHRM% - Master of Human Resource Management
 
-View my detailed <a href="/images/resume.pdf">resume</a>
+View my detailed <a href="/images/resume.pdf">Resume</a>
