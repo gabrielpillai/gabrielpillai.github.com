@@ -5,7 +5,12 @@ title: Gabriel Pillay
 
 h2. About me
 
-I have retired from All India Railways Personnel Service (IRPS) from 1-1-2011, having worked as Dy. Chief Personnel manager of the rank of DGM/HRD SWR/HQ/Hubli.
+<table width="100%">
+<tr>
+<td><img src="/images/gabby.png"></td>
+<td>I have retired from All India Railways Personnel Service (IRPS) from 1-1-2011, having worked as Dy. Chief Personnel manager of the rank of DGM/HRD SWR/HQ/Hubli.</td>
+</tr>
+</table>
 
 h3.  I have about 43 years of experience including 35 years in HRD department with following areas of responsibility:
 
