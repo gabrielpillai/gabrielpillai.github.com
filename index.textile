@@ -82,3 +82,5 @@ h3. Qualification
 # %{color:red}MHRM% - Master of Human Resource Management
 
 View my detailed <a href="/images/resume.pdf">resume</a>
+<br>
+Contact: +91 9482779440
